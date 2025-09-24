@@ -26,7 +26,7 @@
         <p>
           Oi, me chamo <b>Isabele Fernanda</b> 👋<br><br>
           🎓 Estudo <b>Informática para Internet</b> no IFRN<br>
-          ☕ Movida a café (muito café mesmo)<br>
+          ☕ Movida a café (muito café)<br>
           💻 Desenvolvendo projetos (e lutando contra a loucura da programação) <br>
           📚 Criadora do <b>Liberium</b>, uma estante virtual para incentivar a leitura
         </p>
