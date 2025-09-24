@@ -17,11 +17,6 @@
 
 
 
-
-## Ferramentas e Tecnologias
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>
-
 <table align="center">
   <tr>
     <td  align="center">
@@ -41,5 +36,19 @@
   </tr>
 </table>
 
-          
+## Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/91a2894e-478d-4228-8e9d-6899fe640da8" alt="Tony Stark" width="200"/>
+  <img src="https://github.com/user-attachments/assets/62ee11c0-f663-4363-a76d-ec1c65ac880e" alt="Tony Stark" width="200"/>
+  <img src="https://github.com/user-attachments/assets/d315e83a-b07d-47de-bbf1-b78b3b73e858" alt="Tony Stark" width="200"/>
+</p>
+
+
+
+
 
