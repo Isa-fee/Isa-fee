@@ -7,6 +7,7 @@
 ## 🌸✧･ﾟ:* Hi! I'm Isabele *:･ﾟ✧🌸
 
 ## Welcome, Devs!!
+<br>
 
 
 <div align="center">
@@ -17,7 +18,7 @@
      src="https://github-readme-stats.vercel.app/api?username=Isa-fee&show_icons=true&include_all_commits=true&count_private=true&title_color=FF69B4&text_color=4B3B6C&icon_color=FF69B4&bg_color=8A79AF,DAA0F2,FDE1EB&border_color=B19CD9"/>
 </a>
 </div>
-
+<br>
 
 
 <table align="center">
@@ -42,6 +43,8 @@
 ## Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>
+<br>
+<br>
 
 
 
