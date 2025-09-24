@@ -5,11 +5,17 @@
 ## Hi! I am Isabele Fernanda 👋
 ## Welcome, Devs!!
 
+
 <div align="center">
 <a href="https://github.com/Isa-fee">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isa-fee&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Isa-fee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isa-fee&layout=compact&langs_count=7&title_color=FF69B4&text_color=4B3B6C&icon_color=FF69B4&bg_color=8A79AF,DAA0F2,FDE1EB&border_color=B19CD9"/>
+<img loading="lazy" height="180em"
+     src="https://github-readme-stats.vercel.app/api?username=Isa-fee&show_icons=true&include_all_commits=true&count_private=true&title_color=FF69B4&text_color=4B3B6C&icon_color=FF69B4&bg_color=8A79AF,DAA0F2,FDE1EB&border_color=B19CD9"/>
+</a>
 </div>
+
+
 
 
 ## Ferramentas e Tecnologias
