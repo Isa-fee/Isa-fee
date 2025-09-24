@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/Isa-fee/Isa-fee/blob/output/github-contribution-grid-snake.svg)
+
 ## Hi! I am Isabele Fernanda 👋
 ## Welcome, Devs!!
 
@@ -12,3 +14,4 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>
           
+<img width="500" height="500" alt="octocat-1758711073218" src="https://github.com/user-attachments/assets/a04d36af-f02c-489d-8c8c-26bc18bb3b05" />
